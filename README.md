@@ -69,7 +69,7 @@ BuzzChat is a *MERN-stack* real-time chat platform with one-on-one & group messa
 
 ### 1️⃣ *Clone the Repository*  
 ```
-git clone https://github.com/Manavi-Arora/BuzzChat-MERN.git
+git clone https://github.com/bharatkumar31/BuzzChat-MERN.git
 cd BuzzChat-MERN
 ```
 
